@@ -3,3 +3,8 @@
 
 *.o
 *.a
+
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
